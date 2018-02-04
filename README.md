@@ -5,6 +5,6 @@ This project involves the use of Watson Analytics to analyze a dataset containin
 
 The full report can be found in the file "Attrition EDA.pdf".  This report shows a complete breakdown of my analysis, including problem identification, motivation, data exploration, data refinement, results, and proposed solutions.  Tables and visualizations are included in the appendix.
 
-The dataset is located in the file "employee attrition.xlsx".  It was obtained from IBM's list of sample datasets:
+The dataset is located in the file "employee attrition.xlsx".  It has been cleaned of outliers, missing values, and errors. The original file was obtained from IBM's list of sample datasets:
 
 https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets//
